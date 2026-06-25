@@ -1,0 +1,6 @@
+{
+  "name": "KULT Salon",
+  "description": "Premium unisex salon website with luxury aesthetic, service booking, and cinematic visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
